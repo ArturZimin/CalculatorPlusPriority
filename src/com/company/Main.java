@@ -12,7 +12,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         sb.append("******** Application Calculator ******** \n" +
                 "1. Enter expression to calculate, example: " +
-                "1 + 1 or 1.36 - 1.01 using '+ - * /'\n" +
+                "1 + 1 or 1.36 - 1.01 using '+ - * /()'\n" +
                 "2. Enter 0 - exit");
         System.out.println(sb);
 
